@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="IN: (Bangla) Boishakhi"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png"group-title= "Bangladesh",BD: (Bangla) Boishakhi
 http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60555
-#EXTINF:-1 tvg-name="IN: (Bangla) BTV"tvg-logo="https://www.ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png"group-title= "Bangladesh",BD: (Bangla) BTV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60556
+#EXTINF:-1 tvg-name="IN: (Bangla) Deepto TV"tvg-logo="https://iili.io/HC82f1I.png"group-title= "Bangladesh",BD: (Bangla) Deepto TV
+https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 tvg-name="IN: (Bangla) BTV World"tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png"group-title= "Bangladesh",BD: (Bangla) BTV World
 http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60557
 #EXTINF:-1 tvg-name="IN: (Bangla) BTV World VIP"tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png"group-title= "Bangladesh",BD: (Bangla) BTV World VIP
@@ -15,9 +15,9 @@ http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60560
 http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60561
 #EXTINF:-1 tvg-name="IN: (Bangla) Channel S"tvg-logo="https://pbs.twimg.com/profile_images/836470145652383744/v4refNT9_400x400.jpg"group-title= "Bangladesh",BD: (Bangla) Channel S
 http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60562
-#EXTINF:-1 tvg-name="IN: (Bangla) Colors"tvg-logo="https://en.wikipedia.org/wiki/Colors_Bangla#/media/File:Colors_Bangla.png"group-title= "India - Bangla",IN: (Bangla) Colors Bangla
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60563
-#EXTINF:-1 tvg-name="IN: (Bangla) Colors VIP"tvg-logo="https://en.wikipedia.org/wiki/Colors_Bangla#/media/File:Colors_Bangla.png"group-title= "India - Bangla",IN: (Bangla) Colors Bangla HD VIP
+#EXTINF:-1 tvg-name="IN: (Bangla) Colors"tvg-logo="https://aspireeventsltd.co.uk/wp-content/uploads/elementor/thumbs/bangla-tv-os1kjg6ytu7932vde2zkodoe9kyo4gfuhfvoqptsnw.png"group-title= "India - Bangla",IN: (Bangla) Bangla TV Europe
+https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
+#EXTINF:-1 tvg-name="IN: (Bangla) Colors VIP"tvg-logo="https://en.wikipedia.org/wiki/Colors_Bangla#/media/File:Colors_Bangla.png"group-title= "India - Bangla",IN: (Bangla) Colors Bangla HD
 http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60564
 #EXTINF:-1 tvg-name="IN: (Bangla) DBC News"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png"group-title= "Bangladesh",BD: (Bangla) DBC News
 http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60565
