@@ -1,575 +1,575 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="IN: (Bangla) Boishakhi"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png"group-title= "Bangladesh",BD: (Bangla) Boishakhi
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60555
-#EXTINF:-1 tvg-name="IN: (Bangla) Deepto TV"tvg-logo="https://iili.io/HC82f1I.png"group-title= "Bangladesh",BD: (Bangla) Deepto TV
+#EXTINF:-1 tvg-name="IN: (Bangla) Boishakhi"tvg-logo=https://upload.wikimedia.org/wikipedia/commons/f/f2/Boishakhi_Tv_Logo.png"""group-title= "Bangladesh",BD: (Bangla) Boishakhi
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60555
+#EXTINF:-1 tvg-name="IN: (Bangla) Deepto TV"tvg-logo=https://iili.io/HC82f1I.png"""group-title= "Bangladesh",BD: (Bangla) Deepto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1 tvg-name="IN: (Bangla) BTV World"tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png"group-title= "Bangladesh",BD: (Bangla) BTV World
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60557
-#EXTINF:-1 tvg-name="IN: (Bangla) BTV World VIP"tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png"group-title= "Bangladesh",BD: (Bangla) BTV World VIP
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60558
-#EXTINF:-1 tvg-name="IN: (Bangla) Channel 24"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Channel24logo.svg"group-title= "Bangladesh",BD: (Bangla) Channel 24
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60559
-#EXTINF:-1 tvg-name="IN: (Bangla) Channel I"tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Channel-i.svg"group-title= "Bangladesh",BD: (Bangla) Channel I
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60560
-#EXTINF:-1 tvg-name="IN: (Bangla) Channel I EU"tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/88/Channel-i.svg"group-title= "Bangladesh",BD: (Bangla) Channel I EU
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60561
-#EXTINF:-1 tvg-name="IN: (Bangla) Channel S"tvg-logo="https://pbs.twimg.com/profile_images/836470145652383744/v4refNT9_400x400.jpg"group-title= "Bangladesh",BD: (Bangla) Channel S
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60562
-#EXTINF:-1 tvg-name="IN: (Bangla) Colors"tvg-logo="https://aspireeventsltd.co.uk/wp-content/uploads/elementor/thumbs/bangla-tv-os1kjg6ytu7932vde2zkodoe9kyo4gfuhfvoqptsnw.png"group-title= "India - Bangla",IN: (Bangla) Bangla TV Europe
+#EXTINF:-1 tvg-name="IN: (Bangla) BTV World"tvg-logo=https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png""group-title= "Bangladesh",BD: (Bangla) BTV World
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60557
+#EXTINF:-1 tvg-name="IN: (Bangla) BTV World VIP"tvg-logo=https://upload.wikimedia.org/wikipedia/en/d/df/BTV_World_Logo.png""group-title= "Bangladesh",BD: (Bangla) BTV World VIP
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60558
+#EXTINF:-1 tvg-name="IN: (Bangla) Channel 24"tvg-logo=https://upload.wikimedia.org/wikipedia/commons/9/91/Channel24logo.svg""group-title= "Bangladesh",BD: (Bangla) Channel 24
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60559
+#EXTINF:-1 tvg-name="IN: (Bangla) Channel I"tvg-logo=https://upload.wikimedia.org/wikipedia/en/8/88/Channel-i.svg""group-title= "Bangladesh",BD: (Bangla) Channel I
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60560
+#EXTINF:-1 tvg-name="IN: (Bangla) Channel I EU"tvg-logo=https://upload.wikimedia.org/wikipedia/en/8/88/Channel-i.svg""group-title= "Bangladesh",BD: (Bangla) Channel I EU
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60561
+#EXTINF:-1 tvg-name="IN: (Bangla) Channel S"tvg-logo=https://pbs.twimg.com/profile_images/836470145652383744/v4refNT9_400x400.jpg""group-title= "Bangladesh",BD: (Bangla) Channel S
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60562
+#EXTINF:-1 tvg-name="IN: (Bangla) Colors"tvg-logo=https://aspireeventsltd.co.uk/wp-content/uploads/elementor/thumbs/bangla-tv-os1kjg6ytu7932vde2zkodoe9kyo4gfuhfvoqptsnw.png""group-title= "India - Bangla",IN: (Bangla) Bangla TV Europe
 https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8
-#EXTINF:-1 tvg-name="IN: (Bangla) Colors VIP"tvg-logo="https://en.wikipedia.org/wiki/Colors_Bangla#/media/File:Colors_Bangla.png"group-title= "India - Bangla",IN: (Bangla) Colors Bangla HD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60564
-#EXTINF:-1 tvg-name="IN: (Bangla) DBC News"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png"group-title= "Bangladesh",BD: (Bangla) DBC News
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60565
-#EXTINF:-1 tvg-name="IN: (Bangla) DD"tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/51/%E0%A6%A1%E0%A6%BF%E0%A6%A1%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png"group-title= "India - Bangla",IN: (Bangla) DD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60566
-#EXTINF:-1 tvg-name="IN: (Bangla) DD FHD VIP"tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/51/%E0%A6%A1%E0%A6%BF%E0%A6%A1%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png"group-title= "India - Bangla",IN: (Bangla) DD FHD VIP
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60567
-#EXTINF:-1 tvg-name="IN: (Bangla) DD VIP"tvg-logo="https://upload.wikimedia.org/wikipedia/bn/5/51/%E0%A6%A1%E0%A6%BF%E0%A6%A1%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png"group-title= "India - Bangla",IN: (Bangla) DD VIP
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60568
+#EXTINF:-1 tvg-name="IN: (Bangla) Colors VIP"tvg-logo=https://en.wikipedia.org/wiki/Colors_Bangla#/media/File:Colors_Bangla.png""group-title= "India - Bangla",IN: (Bangla) Colors Bangla HD
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60564
+#EXTINF:-1 tvg-name="IN: (Bangla) DBC News"tvg-logo=https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png""group-title= "Bangladesh",BD: (Bangla) DBC News
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60565
+#EXTINF:-1 tvg-name="IN: (Bangla) DD"tvg-logo=https://upload.wikimedia.org/wikipedia/bn/5/51/%E0%A6%A1%E0%A6%BF%E0%A6%A1%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png""group-title= "India - Bangla",IN: (Bangla) DD
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60566
+#EXTINF:-1 tvg-name="IN: (Bangla) DD FHD VIP"tvg-logo=https://upload.wikimedia.org/wikipedia/bn/5/51/%E0%A6%A1%E0%A6%BF%E0%A6%A1%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png""group-title= "India - Bangla",IN: (Bangla) DD FHD VIP
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60567
+#EXTINF:-1 tvg-name="IN: (Bangla) DD VIP"tvg-logo=https://upload.wikimedia.org/wikipedia/bn/5/51/%E0%A6%A1%E0%A6%BF%E0%A6%A1%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png""group-title= "India - Bangla",IN: (Bangla) DD VIP
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60568
 #EXTINF:-1 tvg-name="IN: (Bangla) Deshe Bideshe TV"tvg-logo=""group-title= "Bangladesh",BD: (Bangla) Deshe Bideshe TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60570
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60570
 #EXTINF:-1 tvg-name="IN: (Bangla) Dhoom HD VIP"tvg-logo=""group-title= "India - Bangla",IN: (Bangla) Dhoom HD VIP
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60571
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60571
 #EXTINF:-1 tvg-name="IN: (Bangla) Dhoom Music"tvg-logo=""group-title= "India - Bangla",IN: (Bangla) Dhoom Music
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60572
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60572
 #EXTINF:-1 tvg-name="IN: (Bangla) Dhoom Music VIP"tvg-logo=""group-title= "India - Bangla",IN:: (Bangla) Dhoom Music VIP
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60573
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60573
 #EXTINF:-1 tvg-name="IN: (Bangla) Dhoom VIP"tvg-logo=""group-title= "India - Bangla",IN: (Bangla) Dhoom VIP
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60574
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60574
 #EXTINF:-1 tvg-name="IN: (Bangla) DISCOVERY CHANNEL VIP"tvg-logo=""group-title= "India - Bangla",IN: (Bangla) DISCOVERY CHANNEL VIP
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60575
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60575
 #EXTINF:-1 tvg-name="IN: (Bangla) Doom Music"tvg-logo=""group-title= "India - Bangla",IN: (Bangla) Doom Music
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60576
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60576
 #EXTINF:-1 tvg-name="IN: (Bangla) Ekushey TV VIP"tvg-logo=""group-title= "Bangladesh",BD: (Bangla) Ekushey TV VIP
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60577
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60577
 #EXTINF:-1 tvg-name="IN: (Bangla) ETV"tvg-logo=""group-title= "Bangladesh",BD: (Bangla) ETV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60578
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60578
 #EXTINF:-1 tvg-name="IN: (Bangla) HD VIP"tvg-logo=""group-title= "Bangladesh",BD: (Bangla) HD VIP
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60579
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60579
 #EXTINF:-1 tvg-name="IN: (Bangla) Independent"tvg-logo=""group-title= "Bangladesh",BD: (Bangla) Independent
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60580
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60580
 #EXTINF:-1 tvg-name="IN: (Bangla) Jamuna TV"tvg-logo=""group-title= "Bangladesh",BD: (Bangla) Jamuna TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60581
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60581
 #EXTINF:-1 tvg-name="IN: (Bangla) Music"tvg-logo=""group-title= "India - Bangla",IN: (Bangla) Kolkata Tv
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60583
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60583
 #EXTINF:-1 tvg-name="IN: (Bangla) News 24 HD"tvg-logo=""group-title= "Bangladesh",BD: (Bangla) News 24 HD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60584
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60584
 #EXTINF:-1 tvg-name="IN: (Bangla) NRB TV"tvg-logo=""group-title= "Bangladesh",BD: (Bangla) NRB TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60585
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60585
 #EXTINF:-1 tvg-name="IN: (Bangla) NTV"tvg-logo=""group-title= "Bangladesh",BD: (Bangla) NTV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60586
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60586
 #EXTINF:-1 tvg-name="IN: (Bangla) Rupashi VIP"tvg-logo=""group-title= "India - Bangla",IN: (Bangla) Rupashi VIP
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60587
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60587
 #EXTINF:-1 tvg-name="IN: (Bangla) Sangeet HD VIP"tvg-logo=""group-title= "India - Bangla",IN: (Bangla) Sangeet HD VIP
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60588
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60588
 #EXTINF:-1 tvg-name="IN: (Bangla) SATV"tvg-logo=""group-title= "Bangladesh",BD: (Bangla) SATV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60589
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60589
 #EXTINF:-1 tvg-name="IN: (Bangla) SATV VIP"tvg-logo=""group-title= "Bangladesh",BD: (Bangla) SATV VIP
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60590
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60590
 #EXTINF:-1 tvg-name="IN: (Bangla) Sony Aath FHD VIP"tvg-logo=""group-title= "India - Bangla",IN: (Bangla) Sony Aath FHD VIP
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60591
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60591
 #EXTINF:-1 tvg-name="IN: (Bangla) Sony Aath HD VIP"tvg-logo=""group-title= "India - Bangla",IN: (Bangla) Sony Aath HD VIP
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60592
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60592
 #EXTINF:-1 tvg-name="IN: (Bangla) SONY AATH VIP"tvg-logo=""group-title= "India - Bangla",IN: (Bangla) SONY AATH VIP
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60593
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60593
 #EXTINF:-1 tvg-name="IN: (Bangla) Star Jalsa"tvg-logo=""group-title= "India - Bangla",IN: (Bangla) Star Jalsa
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60594
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60594
 #EXTINF:-1 tvg-name="IN: (Bangla) TV UK"tvg-logo=""group-title= "Bangladesh",BD: (Bangla) Bangla TV HD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60595
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60595
 #EXTINF:-1 tvg-name="IN: (Bangla) Vision"tvg-logo=""group-title= "Bangladesh",BD: (Bangla) Bangla Vision
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60596
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60596
 #EXTINF:-1 tvg-name="IN: (Bangla) Zee"tvg-logo=""group-title= "India - Bangla",IN: (Bangla) Zee Bangla
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60597
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60597
 #EXTINF:-1 tvg-name="IN: (Bangla) Zee Cinema"tvg-logo=""group-title= "India - Bangla",IN: (Bangla) Zee Bangla Cinema
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60598
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60598
 #EXTINF:-1 tvg-name="IN: (Gujarati) ABP ASMITA Gujarati"tvg-logo=""group-title="India - Gujarati",IN: (Gujarati) ABP ASMITA Gujarati
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60599
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60599
 #EXTINF:-1 tvg-name="IN: (Gujarati) COLORS"tvg-logo=""group-title="India - Gujarati",IN: (Gujarati) COLORS
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60600
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60600
 #EXTINF:-1 tvg-name="IN: (Gujarati) TV9 HD"tvg-logo=""group-title="India - Gujarati",IN: (Gujarati) TV9 HD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60601
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60601
 #EXTINF:-1 tvg-name="IN: (Malayalam) Amrita"tvg-logo=""group-title="India - Malayalam",IN: (Malayalam) Amrita
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60602
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60602
 #EXTINF:-1 tvg-name="IN: (Malayalam) DD"tvg-logo=""group-title="India - Malayalam",IN: (Malayalam) DD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60603
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60603
 #EXTINF:-1 tvg-name="IN: (Malayalam) DD HD"tvg-logo=""group-title="India - Malayalam",IN: (Malayalam) DD HD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60604
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60604
 #EXTINF:-1 tvg-name="IN: (Malayalam) Drisya"tvg-logo=""group-title="India - Malayalam",IN: (Malayalam) Drisya
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60605
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60605
 #EXTINF:-1 tvg-name="IN: (Malayalam) FLOWERS TV HD"tvg-logo=""group-title="India - Malayalam",IN: (Malayalam) FLOWERS TV HD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60606
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60606
 #EXTINF:-1 tvg-name="IN: (Malayalam) Jaihind TV"tvg-logo=""group-title="India - Malayalam",IN: (Malayalam) Jaihind TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60607
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60607
 #EXTINF:-1 tvg-name="IN: (Malayalam) Janam TV HD"tvg-logo=""group-title="India - Malayalam",IN: (Malayalam) Janam TV HD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60608
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60608
 #EXTINF:-1 tvg-name="IN: (Malayalam) MATHRUBHUMI NEWS"tvg-logo=""group-title="India - Malayalam",IN: (Malayalam) MATHRUBHUMI NEWS
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60609
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60609
 #EXTINF:-1 tvg-name="IN: (Malayalam) MAZHAVIL MANORAMA HD"tvg-logo=""group-title="India - Malayalam",IN: (Malayalam) MAZHAVIL MANORAMA HD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60610
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60610
 #EXTINF:-1 tvg-name="IN: (Malayalam) MEDIA ONE HD"tvg-logo=""group-title="India - Malayalam",IN: (Malayalam) MEDIA ONE HD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60611
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60611
 #EXTINF:-1 tvg-name="IN: (Malayalam) MUZAHAL MANORAMA FHD"tvg-logo=""group-title="India - Malayalam",IN: (Malayalam) MUZAHAL MANORAMA FHD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60612
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60612
 #EXTINF:-1 tvg-name="IN: (Malayalam) NEWS 18 KERALA"tvg-logo=""group-title="India - Malayalam",IN: (Malayalam) NEWS 18 KERALA
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60613
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60613
 #EXTINF:-1 tvg-name="IN: (Malayalam) Raj Music"tvg-logo=""group-title="India - Malayalam",IN: (Malayalam) Raj Music
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60615
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60615
 #EXTINF:-1 tvg-name="IN: (Malayalam) RAJ MUSIX"tvg-logo=""group-title="India - Malayalam",IN: (Malayalam) RAJ MUSIX
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60616
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60616
 #EXTINF:-1 tvg-name="IN: (Malayalam) Reporter TV"tvg-logo=""group-title="India - Malayalam",IN: (Malayalam) Reporter TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60617
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60617
 #EXTINF:-1 tvg-name="IN: (Malayalam) SURYA TV"tvg-logo=""group-title="India - Malayalam",IN: (Malayalam) SURYA TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60618
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60618
 #EXTINF:-1 tvg-name="IN: (Punjabi) 9X Tashan"tvg-logo=""group-title="India - Punjabi",IN: (Punjabi) 9X Tashan
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60619
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60619
 #EXTINF:-1 tvg-name="IN: (Punjabi) Akaal Channel"tvg-logo=""group-title="India - Punjabi",IN: (Punjabi) Akaal Channel
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60620
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60620
 #EXTINF:-1 tvg-name="IN: (Punjabi) Britasia"tvg-logo=""group-title="India - Punjabi",IN: (Punjabi) Britasia
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60621
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60621
 #EXTINF:-1 tvg-name="IN: (Punjabi) ChakDE TV"tvg-logo=""group-title="India - Punjabi",IN: (Punjabi) ChakDE TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60622
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60622
 #EXTINF:-1 tvg-name="IN: (Punjabi) CHARDIKLA TIME TV"tvg-logo=""group-title="India - Punjabi",IN: (Punjabi) CHARDIKLA TIME TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60623
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60623
 #EXTINF:-1 tvg-name="IN: (Punjabi) DD"tvg-logo=""group-title="India - Punjabi",IN: (Punjabi) DD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60624
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60624
 #EXTINF:-1 tvg-name="IN: (Punjabi) DD 1"tvg-logo=""group-title="India - Punjabi",IN: (Punjabi) DD 1
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60625
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60625
 #EXTINF:-1 tvg-name="IN: (Punjabi) Desi Channel"tvg-logo=""group-title="India - Punjabi",IN: (Punjabi) Desi Channel
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60626
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60626
 #EXTINF:-1 tvg-name="IN: (Punjabi) Fastway TV"tvg-logo=""group-title="India - Punjabi",IN: (Punjabi) Fastway TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60627
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60627
 #EXTINF:-1 tvg-name="IN: (Punjabi) Global"tvg-logo=""group-title="India - Punjabi",IN: (Punjabi) Global
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60628
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60628
 #EXTINF:-1 tvg-name="IN: (Punjabi) GURBANI TV"tvg-logo=""group-title="India - Punjabi",IN: (Punjabi) GURBANI TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60629
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60629
 #EXTINF:-1 tvg-name="IN: (Punjabi) JUS"tvg-logo=""group-title="India - Punjabi",IN: (Punjabi) JUS
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60630
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60630
 #EXTINF:-1 tvg-name="IN: (Punjabi) Jus One TV"tvg-logo=""group-title="India - Punjabi",IN: (Punjabi) Jus One TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60631
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60631
 #EXTINF:-1 tvg-name="IN: (Punjabi) NDA Channel"tvg-logo=""group-title="India - Punjabi",IN: (Punjabi) NDA Channel
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60632
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60632
 #EXTINF:-1 tvg-name="IN: (Punjabi) Pitaara"tvg-logo=""group-title="India - Punjabi",IN: (Punjabi) Pitaara
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60633
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60633
 #EXTINF:-1 tvg-name="IN: (Punjabi) Prime Asia"tvg-logo=""group-title="India - Punjabi",IN: (Punjabi) Prime Asia
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60634
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60634
 #EXTINF:-1 tvg-name="IN: (Punjabi) Punjab TV"tvg-logo=""group-title="India - Punjabi",IN: (Punjabi) Punjab TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60638
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60638
 #EXTINF:-1 tvg-name="IN: (Punjabi) Sanjh TV"tvg-logo=""group-title="India - Punjabi",IN: (Punjabi) Sanjh TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60639
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60639
 #EXTINF:-1 tvg-name="IN: (Punjabi) Tag TV"tvg-logo=""group-title="India - Punjabi",IN: (Punjabi) Tag TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60640
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60640
 #EXTINF:-1 tvg-name="IN: (Punjabi) Zee Punjabi- Haryana TV"tvg-logo=""group-title="India - Punjabi",IN: (Punjabi) Zee Punjabi- Haryana TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60641
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60641
 #EXTINF:-1 tvg-name="IN: (Tamil) DISCOVERY HD"tvg-logo=""group-title="India - Tamil",IN: (Tamil) DISCOVERY HD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60642
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60642
 #EXTINF:-1 tvg-name="IN: (Tamil) MK MUSIC"tvg-logo=""group-title="India - Tamil",IN: (Tamil) MK MUSIC
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60643
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60643
 #EXTINF:-1 tvg-name="IN: (Tamil) MURASU TV"tvg-logo=""group-title="India - Tamil",IN: (Tamil) MURASU TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60644
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60644
 #EXTINF:-1 tvg-name="IN: (Tamil) NEWS 18"tvg-logo=""group-title="India - Tamil",IN: (Tamil) NEWS 18
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60645
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60645
 #EXTINF:-1 tvg-name="IN: (Tamil) PUTHUJUGAM Tamil-"tvg-logo=""group-title="India - Tamil",IN: (Tamil) PUTHUJUGAM Tamil-
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60646
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60646
 #EXTINF:-1 tvg-name="IN: (Tamil) RAJ MUSIX"tvg-logo=""group-title="India - Tamil",IN: (Tamil) RAJ MUSIX
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60647
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60647
 #EXTINF:-1 tvg-name="IN: (Tamil) SUN LIFE"tvg-logo=""group-title="India - Tamil",IN: (Tamil) SUN LIFE
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60648
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60648
 #EXTINF:-1 tvg-name="IN: (Tamil) TRAVEL XP"tvg-logo=""group-title="India - Tamil",IN: (Tamil) TRAVEL XP
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60649
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60649
 #EXTINF:-1 tvg-name="IN: (Tamil) TUNES 6"tvg-logo=""group-title="India - Tamil",IN: (Tamil) TUNES 6
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60650
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60650
 #EXTINF:-1 tvg-name="IN: (Tamil) VASANTH TV"tvg-logo=""group-title="India - Tamil",IN: (Tamil) VASANTH TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60651
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60651
 #EXTINF:-1 tvg-name="IN: (Tamil) WIN TV"tvg-logo=""group-title="India - Tamil",IN: (Tamil) WIN TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60652
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60652
 #EXTINF:-1 tvg-name="IN: (Tamil) Zee"tvg-logo=""group-title="India - Tamil",IN: (Tamil) Zee
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60653
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60653
 #EXTINF:-1 tvg-name="IN: (Tamil) ZEE HD"tvg-logo=""group-title="India - Tamil",IN: (Tamil) ZEE HD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60654
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60654
 #EXTINF:-1 tvg-name="IN: (Telugu) CVR HEALTH"tvg-logo=""group-title="India - Telugu",IN: (Telugu) CVR HEALTH
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60655
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60655
 #EXTINF:-1 tvg-name="IN: (Telugu) CVR NEWS"tvg-logo=""group-title="India - Telugu",IN: (Telugu) CVR NEWS
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60656
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60656
 #EXTINF:-1 tvg-name="IN: (Telugu) GEMINI COMEDY"tvg-logo=""group-title="India - Telugu",IN: (Telugu) GEMINI COMEDY
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60657
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60657
 #EXTINF:-1 tvg-name="IN: (Telugu) TV9"tvg-logo=""group-title="India - Telugu",IN: (Telugu) TV9
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60658
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60658
 #EXTINF:-1 tvg-name="IN: (Telugu) TV9 NEWS"tvg-logo=""group-title="India - Telugu",IN: (Telugu) TV9 NEWS
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60659
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60659
 #EXTINF:-1 tvg-name="IN: (Telugu) V6 NEWS"tvg-logo=""group-title="India - Telugu",IN: (Telugu) V6 NEWS
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60660
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60660
 #EXTINF:-1 tvg-name="IN: (Telugu) ZEE"tvg-logo=""group-title="India - Telugu",IN: (Telugu) ZEE
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60661
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60661
 #EXTINF:-1 tvg-name="IN: (Telugu) Zee Cinema l"tvg-logo=""group-title="India - Telugu",IN: (Telugu) Zee Cinema l
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60662
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60662
 #EXTINF:-1 tvg-name="IN: (Telugu) Zee Ditto"tvg-logo=""group-title="India - Telugu",IN: (Telugu) Zee Ditto
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60663
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60663
 #EXTINF:-1 tvg-name="IN: 9X Jhakaas"tvg-logo=""group-title="India - Main",IN: 9X Jhakaas
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60664
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60664
 #EXTINF:-1 tvg-name="IN: 9XM"tvg-logo=""group-title="India - Main",IN: 9XM
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60665
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60665
 #EXTINF:-1 tvg-name="IN: 9XM Jalwa"tvg-logo=""group-title="India - Main",IN: 9XM Jalwa
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60666
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60666
 #EXTINF:-1 tvg-name="IN: AAJ TAK UK"tvg-logo=""group-title="India - Main",IN: AAJ TAK UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60667
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60667
 #EXTINF:-1 tvg-name="IN: Aastha Bhajan"tvg-logo=""group-title="India - Main",IN: Aastha Bhajan
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60668
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60668
 #EXTINF:-1 tvg-name="IN: Aastha TV"tvg-logo=""group-title="India - Main",IN: Aastha TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60669
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60669
 #EXTINF:-1 tvg-name="IN: ABP News HD"tvg-logo=""group-title="India - Main",IN: ABP News HD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60670
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60670
 #EXTINF:-1 tvg-name="IN: ABP News UK"tvg-logo=""group-title="India - Main",IN: ABP News UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60671
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60671
 #EXTINF:-1 tvg-name="IN: Al Jazeera UK"tvg-logo=""group-title="India - Main",IN: Al Jazeera UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60672
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60672
 #EXTINF:-1 tvg-name="IN: AND TV HD"tvg-logo=""group-title="India - Main",IN: AND TV HD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60673
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60673
 #EXTINF:-1 tvg-name="IN: And TV UK"tvg-logo=""group-title="India - Main",IN: And TV UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60674
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60674
 #EXTINF:-1 tvg-name="IN: ARY Digital UK"tvg-logo=""group-title="India - Main",IN: ARY Digital UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60678
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60678
 #EXTINF:-1 tvg-name="IN: B4U MUSIC"tvg-logo=""group-title="India - Main",IN: B4U MUSIC
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60681
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60681
 #EXTINF:-1 tvg-name="IN: BBC WORLD NEWS UK"tvg-logo=""group-title="India - Main",IN: BBC WORLD NEWS UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60683
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60683
 #EXTINF:-1 tvg-name="IN: BHOJPURI CINEMA"tvg-logo=""group-title="India - Main",IN: BHOJPURI CINEMA
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60684
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60684
 #EXTINF:-1 tvg-name="IN: Big Magic"tvg-logo=""group-title="India - Main",IN: Big Magic
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60685
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60685
 #EXTINF:-1 tvg-name="IN: Britasia TV UK"tvg-logo=""group-title="India - Main",IN: Britasia TV UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60686
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60686
 #EXTINF:-1 tvg-name="IN: BTV CA"tvg-logo=""group-title="India - Main",IN: BTV CA
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60687
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60687
 #EXTINF:-1 tvg-name="IN: Cinema TV"tvg-logo=""group-title="India - Main",IN: Cinema TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60688
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60688
 #EXTINF:-1 tvg-name="IN: Colors APAC"tvg-logo=""group-title="India - Main",IN: Colors APAC
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60689
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60689
 #EXTINF:-1 tvg-name="IN: COLORS FHD CA"tvg-logo=""group-title="India - Main",IN: COLORS FHD CA
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60690
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60690
 #EXTINF:-1 tvg-name="IN: COLORS TV FHD"tvg-logo=""group-title="India - Main",IN: COLORS TV FHD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60691
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60691
 #EXTINF:-1 tvg-name="IN: Colors UK"tvg-logo=""group-title="India - Main",IN: Colors UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60692
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60692
 #EXTINF:-1 tvg-name="IN: Dabangg"tvg-logo=""group-title="India - Main",IN: Dabangg
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60693
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60693
 #EXTINF:-1 tvg-name="IN: Darshan 24"tvg-logo=""group-title="India - Main",IN: Darshan 24
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60694
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60694
 #EXTINF:-1 tvg-name="IN: DD BHARATI"tvg-logo=""group-title="India - Main",IN: DD BHARATI
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60695
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60695
 #EXTINF:-1 tvg-name="IN: DD GIRNAR"tvg-logo=""group-title="India - Main",IN: DD GIRNAR
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60696
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60696
 #EXTINF:-1 tvg-name="IN: DD KISAN"tvg-logo=""group-title="India - Main",IN: DD KISAN
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60697
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60697
 #EXTINF:-1 tvg-name="IN: DD Raja"tvg-logo=""group-title="India - Main",IN: DD Raja
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60698
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60698
 #EXTINF:-1 tvg-name="IN: DD Sport UK"tvg-logo=""group-title="India - Main",IN: DD Sport UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60699
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60699
 #EXTINF:-1 tvg-name="IN: Discovery"tvg-logo=""group-title="India - Main",IN: Discovery
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60701
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60701
 #EXTINF:-1 tvg-name="IN: Discovery Kids"tvg-logo=""group-title="India - Main",IN: Discovery Kids
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60702
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60702
 #EXTINF:-1 tvg-name="IN: Discovery Turbo"tvg-logo=""group-title="India - Main",IN: Discovery Turbo
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60704
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60704
 #EXTINF:-1 tvg-name="IN: Discovery World HD"tvg-logo=""group-title="India - Main",IN: Discovery World HD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60705
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60705
 #EXTINF:-1 tvg-name="IN: Eleven Sport Network Asia"tvg-logo=""group-title="India - Main",IN: Eleven Sport Network Asia
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60706
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60706
 #EXTINF:-1 tvg-name="IN: ET NOW"tvg-logo=""group-title="India - Main",IN: ET NOW
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60707
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60707
 #EXTINF:-1 tvg-name="IN: ET Now UK"tvg-logo=""group-title="India - Main",IN: ET Now UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60708
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60708
 #EXTINF:-1 tvg-name="IN: Fatafati Music"tvg-logo=""group-title="India - Main",IN: Fatafati Music
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60709
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60709
 #EXTINF:-1 tvg-name="IN: Flix"tvg-logo=""group-title="India - Main",IN: Flix
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60710
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60710
 #EXTINF:-1 tvg-name="IN: FOOD FOOD TV"tvg-logo=""group-title="India - Main",IN: FOOD FOOD TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60711
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60711
 #EXTINF:-1 tvg-name="IN: Gemini TV"tvg-logo=""group-title="India - Main",IN: Gemini TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60715
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60715
 #EXTINF:-1 tvg-name="IN: GEO News UK"tvg-logo=""group-title="India - Main",IN: GEO News UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60716
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60716
 #EXTINF:-1 tvg-name="IN: GEO TV UK"tvg-logo=""group-title="India - Main",IN: GEO TV UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60717
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60717
 #EXTINF:-1 tvg-name="IN: God TV UK"tvg-logo=""group-title="India - Main",IN: God TV UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60718
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60718
 #EXTINF:-1 tvg-name="IN: Harvest TV US"tvg-logo=""group-title="India - Main",IN: Harvest TV US
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60719
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60719
 #EXTINF:-1 tvg-name="IN: India Today News UK"tvg-logo=""group-title="India - Main",IN: India Today News UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60721
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60721
 #EXTINF:-1 tvg-name="IN: JAI Telangana"tvg-logo=""group-title="India - Main",IN: JAI Telangana
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60722
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60722
 #EXTINF:-1 tvg-name="IN: Janam TV 2"tvg-logo=""group-title="India - Main",IN: Janam TV 2
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60723
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60723
 #EXTINF:-1 tvg-name="IN: Jaya Max 2"tvg-logo=""group-title="India - Main",IN: Jaya Max 2
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60724
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60724
 #EXTINF:-1 tvg-name="IN: Jaya Max UK"tvg-logo=""group-title="India - Main",IN: Jaya Max UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60725
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60725
 #EXTINF:-1 tvg-name="IN: Jaya TV UK"tvg-logo=""group-title="India - Main",IN: Jaya TV UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60729
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60729
 #EXTINF:-1 tvg-name="IN: Jaya TV USA"tvg-logo=""group-title="India - Main",IN: Jaya TV USA
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60730
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60730
 #EXTINF:-1 tvg-name="IN: JUS 24x7"tvg-logo=""group-title="India - Main",IN: JUS 24x7
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60731
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60731
 #EXTINF:-1 tvg-name="IN: Kairali"tvg-logo=""group-title="India - Main",IN: Kairali
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60732
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60732
 #EXTINF:-1 tvg-name="IN: LIVING FOODZ"tvg-logo=""group-title="India - Main",IN: LIVING FOODZ
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60733
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60733
 #EXTINF:-1 tvg-name="IN: Maa Gold"tvg-logo=""group-title="India - Main",IN: Maa Gold
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60734
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60734
 #EXTINF:-1 tvg-name="IN: Manoranjan TV"tvg-logo=""group-title="India - Main",IN: Manoranjan TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60736
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60736
 #EXTINF:-1 tvg-name="IN: Mastiii TV"tvg-logo=""group-title="India - Main",IN: Mastiii TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60737
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60737
 #EXTINF:-1 tvg-name="IN: MTV India"tvg-logo=""group-title="India - Main",IN: MTV India
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60739
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60739
 #EXTINF:-1 tvg-name="IN: Music India"tvg-logo=""group-title="India - Main",IN: Music India
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60740
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60740
 #EXTINF:-1 tvg-name="IN: NDTV 24x7 UK"tvg-logo=""group-title="India - Main",IN: NDTV 24x7 UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60741
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60741
 #EXTINF:-1 tvg-name="IN: NDTV Good Times UK"tvg-logo=""group-title="India - Main",IN: NDTV Good Times UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60742
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60742
 #EXTINF:-1 tvg-name="IN: NDTV INDIA"tvg-logo=""group-title="India - Main",IN: NDTV INDIA
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60743
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60743
 #EXTINF:-1 tvg-name="IN: NEWS 24"tvg-logo=""group-title="India - Main",IN: NEWS 24
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60746
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60746
 #EXTINF:-1 tvg-name="IN: Nickelodeon"tvg-logo=""group-title="India - Main",IN: Nickelodeon
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60747
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60747
 #EXTINF:-1 tvg-name="IN: Noor TV UK"tvg-logo=""group-title="India - Main",IN: Noor TV UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60748
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60748
 #EXTINF:-1 tvg-name="IN: Patrika TV Raj"tvg-logo=""group-title="India - Main",IN: Patrika TV Raj
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60749
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60749
 #EXTINF:-1 tvg-name="IN: Pictures"tvg-logo=""group-title="India - Main",IN: Pictures
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60750
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60750
 #EXTINF:-1 tvg-name="IN: Polimer TV"tvg-logo=""group-title="India - Main",IN: Polimer TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60751
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60751
 #EXTINF:-1 tvg-name="IN: Public TV US"tvg-logo=""group-title="India - Main",IN: Public TV US
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60752
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60752
 #EXTINF:-1 tvg-name="IN: Puthiya"tvg-logo=""group-title="India - Main",IN: Puthiya
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60753
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60753
 #EXTINF:-1 tvg-name="IN: Raj Music HD CA"tvg-logo=""group-title="India - Main",IN: Raj Music HD CA
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60756
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60756
 #EXTINF:-1 tvg-name="IN: Raj Music US"tvg-logo=""group-title="India - Main",IN: Raj Music US
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60757
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60757
 #EXTINF:-1 tvg-name="IN: RAJ Musix"tvg-logo=""group-title="India - Main",IN: RAJ Musix
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60758
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60758
 #EXTINF:-1 tvg-name="IN: RAJ TV"tvg-logo=""group-title="India - Main",IN: RAJ TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60759
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60759
 #EXTINF:-1 tvg-name="IN: Raj TV UK"tvg-logo=""group-title="India - Main",IN: Raj TV UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60760
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60760
 #EXTINF:-1 tvg-name="IN: REPUBLIC NEWS TV"tvg-logo=""group-title="India - Main",IN: REPUBLIC NEWS TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60761
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60761
 #EXTINF:-1 tvg-name="IN: Rishtey"tvg-logo=""group-title="India - Main",IN: Rishtey
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60762
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60762
 #EXTINF:-1 tvg-name="IN: Rishtey CAD"tvg-logo=""group-title="India - Main",IN: Rishtey CAD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60763
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60763
 #EXTINF:-1 tvg-name="IN: Rishtey Cine UK"tvg-logo=""group-title="India - Main",IN: Rishtey Cine UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60764
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60764
 #EXTINF:-1 tvg-name="IN: Rishtey UK"tvg-logo=""group-title="India - Main",IN: Rishtey UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60767
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60767
 #EXTINF:-1 tvg-name="IN: Saaral Jeevan CA"tvg-logo=""group-title="India - Main",IN: Saaral Jeevan CA
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60769
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60769
 #EXTINF:-1 tvg-name="IN: Sab TV"tvg-logo=""group-title="India - Main",IN: Sab TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60770
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60770
 #EXTINF:-1 tvg-name="IN: SAB UK"tvg-logo=""group-title="India - Main",IN: SAB UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60771
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60771
 #EXTINF:-1 tvg-name="IN: Sadhana TV"tvg-logo=""group-title="India - Main",IN: Sadhana TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60772
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60772
 #EXTINF:-1 tvg-name="IN: Samay"tvg-logo=""group-title="India - Main",IN: Samay
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60773
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60773
 #EXTINF:-1 tvg-name="IN: Samay Bihar"tvg-logo=""group-title="India - Main",IN: Samay Bihar
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60774
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60774
 #EXTINF:-1 tvg-name="IN: SANGEET BHOJPORI"tvg-logo=""group-title="India - Main",IN: SANGEET BHOJPORI
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60775
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60775
 #EXTINF:-1 tvg-name="IN: Sanskar TV"tvg-logo=""group-title="India - Main",IN: Sanskar TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60776
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60776
 #EXTINF:-1 tvg-name="IN: Santhora TV"tvg-logo=""group-title="India - Main",IN: Santhora TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60777
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60777
 #EXTINF:-1 tvg-name="IN: SetMax UK"tvg-logo=""group-title="India - Main",IN: SetMax UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60778
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60778
 #EXTINF:-1 tvg-name="IN: SetMax2"tvg-logo=""group-title="India - Main",IN: SetMax2
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60779
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60779
 #EXTINF:-1 tvg-name="IN: Sonic Nickelodeon"tvg-logo=""group-title="India - Main",IN: Sonic Nickelodeon
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60780
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60780
 #EXTINF:-1 tvg-name="IN: Sony HD"tvg-logo=""group-title="India - Main",IN: Sony HD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60781
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60781
 #EXTINF:-1 tvg-name="IN: Sony Max"tvg-logo=""group-title="India - Main",IN: Sony Max
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60783
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60783
 #EXTINF:-1 tvg-name="IN: SONY MAX 2"tvg-logo=""group-title="India - Main",IN: SONY MAX 2
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60784
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60784
 #EXTINF:-1 tvg-name="IN: Sony Max HD UK"tvg-logo=""group-title="India - Main",IN: Sony Max HD UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60785
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60785
 #EXTINF:-1 tvg-name="IN: SONY MIX"tvg-logo=""group-title="India - Main",IN: SONY MIX
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60786
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60786
 #EXTINF:-1 tvg-name="IN: SONY PAL"tvg-logo=""group-title="India - Main",IN: SONY PAL
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60787
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60787
 #EXTINF:-1 tvg-name="IN: Sony Pix"tvg-logo=""group-title="India - Main",IN: Sony Pix
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60788
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60788
 #EXTINF:-1 tvg-name="IN: SONY SAB HD"tvg-logo=""group-title="India - Main",IN: SONY SAB HD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60789
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60789
 #EXTINF:-1 tvg-name="IN: Sony Sab UK"tvg-logo=""group-title="India - Main",IN: Sony Sab UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60790
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60790
 #EXTINF:-1 tvg-name="IN: SONY SETMAX HD"tvg-logo=""group-title="India - Main",IN: SONY SETMAX HD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60791
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60791
 #EXTINF:-1 tvg-name="IN: Sony Ten 1 FHD"tvg-logo=""group-title="India - Main",IN: Sony Ten 1 FHD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60792
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60792
 #EXTINF:-1 tvg-name="IN: Sony Ten 2 UK"tvg-logo=""group-title="India - Main",IN: Sony Ten 2 UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60793
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60793
 #EXTINF:-1 tvg-name="IN: Sony Ten 3 UK"tvg-logo=""group-title="India - Main",IN: Sony Ten 3 UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60794
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60794
 #EXTINF:-1 tvg-name="IN: SONY TV FHD"tvg-logo=""group-title="India - Main",IN: SONY TV FHD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60795
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60795
 #EXTINF:-1 tvg-name="IN: Sony UK"tvg-logo=""group-title="India - Main",IN: Sony UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60796
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60796
 #EXTINF:-1 tvg-name="IN: Sony WAH"tvg-logo=""group-title="India - Main",IN: Sony WAH
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60797
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60797
 #EXTINF:-1 tvg-name="IN: STAR GOLD HD"tvg-logo=""group-title="India - Main",IN: STAR GOLD HD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60798
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60798
 #EXTINF:-1 tvg-name="IN: Star Gold UK"tvg-logo=""group-title="India - Main",IN: Star Gold UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60799
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60799
 #EXTINF:-1 tvg-name="IN: Star Jalsha"tvg-logo=""group-title="India - Main",IN: Star Jalsha
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60800
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60800
 #EXTINF:-1 tvg-name="IN: Star Pravah"tvg-logo=""group-title="India - Main",IN: Star Pravah
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60806
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60806
 #EXTINF:-1 tvg-name="IN: Star Sports 1 HD"tvg-logo=""group-title="India - Main",IN: Star Sports 1 HD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60807
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60807
 #EXTINF:-1 tvg-name="IN: Star Sports 3 HD"tvg-logo=""group-title="India - Main",IN: Star Sports 3 HD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60808
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60808
 #EXTINF:-1 tvg-name="IN: Sun TV HD"tvg-logo=""group-title="India - Main",IN: Sun TV HD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60809
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60809
 #EXTINF:-1 tvg-name="IN: Takbeer TV UK"tvg-logo=""group-title="India - Main",IN: Takbeer TV UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60810
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60810
 #EXTINF:-1 tvg-name="IN: TEN 1 HD"tvg-logo=""group-title="India - Main",IN: TEN 1 HD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60811
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60811
 #EXTINF:-1 tvg-name="IN: Ten Action"tvg-logo=""group-title="India - Main",IN: Ten Action
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60812
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60812
 #EXTINF:-1 tvg-name="IN: Ten Sports"tvg-logo=""group-title="India - Main",IN: Ten Sports
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60813
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60813
 #EXTINF:-1 tvg-name="IN: TEZ TV"tvg-logo=""group-title="India - Main",IN: TEZ TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60814
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60814
 #EXTINF:-1 tvg-name="IN: Times Now"tvg-logo=""group-title="India - Main",IN: Times Now
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60815
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60815
 #EXTINF:-1 tvg-name="IN: Times Now HD UK"tvg-logo=""group-title="India - Main",IN: Times Now HD UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60816
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60816
 #EXTINF:-1 tvg-name="IN: TRAVEL XP FHD UK"tvg-logo=""group-title="India - Main",IN: TRAVEL XP FHD UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60817
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60817
 #EXTINF:-1 tvg-name="IN: Travel XP HD"tvg-logo=""group-title="India - Main",IN: Travel XP HD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60818
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60818
 #EXTINF:-1 tvg-name="IN: TV FHD"tvg-logo=""group-title="India - Main",IN: TV FHD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60819
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60819
 #EXTINF:-1 tvg-name="IN: TV5 Monde Asia UK"tvg-logo=""group-title="India - Main",IN: TV5 Monde Asia UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60820
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60820
 #EXTINF:-1 tvg-name="IN: TV9 NEWS CA"tvg-logo=""group-title="India - Main",IN: TV9 NEWS CA
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60821
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60821
 #EXTINF:-1 tvg-name="IN: UDAYA TV CA"tvg-logo=""group-title="India - Main",IN: UDAYA TV CA
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60822
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60822
 #EXTINF:-1 tvg-name="IN: UTV Bindas"tvg-logo=""group-title="India - Main",IN: UTV Bindas
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60823
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60823
 #EXTINF:-1 tvg-name="IN: UTV Bindass"tvg-logo=""group-title="India - Main",IN: UTV Bindass
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60824
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60824
 #EXTINF:-1 tvg-name="IN: Willow Cricket"tvg-logo=""group-title="India - Main",IN: Willow Cricket
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60827
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60827
 #EXTINF:-1 tvg-name="IN: Wion TV UK"tvg-logo=""group-title="India - Main",IN: Wion TV UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60828
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60828
 #EXTINF:-1 tvg-name="IN: WOW Cinema"tvg-logo=""group-title="India - Main",IN: WOW Cinema
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60829
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60829
 #EXTINF:-1 tvg-name="IN: ZEE ANMOL"tvg-logo=""group-title="India - Main",IN: ZEE ANMOL
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60830
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60830
 #EXTINF:-1 tvg-name="IN: Zee Business"tvg-logo=""group-title="India - Main",IN: Zee Business
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60831
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60831
 #EXTINF:-1 tvg-name="IN: ZEE CA"tvg-logo=""group-title="India - Main",IN: ZEE CA
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60832
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60832
 #EXTINF:-1 tvg-name="IN: ZEE CINEMA HD"tvg-logo=""group-title="India - Main",IN: ZEE CINEMA HD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60833
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60833
 #EXTINF:-1 tvg-name="IN: Zee Cinema UK"tvg-logo=""group-title="India - Main",IN: Zee Cinema UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60834
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60834
 #EXTINF:-1 tvg-name="IN: Zee Classic"tvg-logo=""group-title="India - Main",IN: Zee Classic
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60835
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60835
 #EXTINF:-1 tvg-name="IN: Zee HD CA"tvg-logo=""group-title="India - Main",IN: Zee HD CA
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60836
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60836
 #EXTINF:-1 tvg-name="IN: Zee News"tvg-logo=""group-title="India - Main",IN: Zee News
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60837
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60837
 #EXTINF:-1 tvg-name="IN: Zee Raj"tvg-logo=""group-title="India - Main",IN: Zee Raj
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60838
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60838
 #EXTINF:-1 tvg-name="IN: ZEE RAJASTHAN"tvg-logo=""group-title="India - Main",IN: ZEE RAJASTHAN
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60839
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60839
 #EXTINF:-1 tvg-name="IN: ZEE SALAAM"tvg-logo=""group-title="India - Main",IN: ZEE SALAAM
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60840
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60840
 #EXTINF:-1 tvg-name="IN: Zee TV APAC"tvg-logo=""group-title="India - Main",IN: Zee TV APAC
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60842
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60842
 #EXTINF:-1 tvg-name="IN: ZEE TV FHD"tvg-logo=""group-title="India - Main",IN: ZEE TV FHD
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60843
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60843
 #EXTINF:-1 tvg-name="IN: Zee TV US"tvg-logo=""group-title="India - Main",IN: Zee TV US
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60844
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60844
 #EXTINF:-1 tvg-name="IN: Zee Zindagi"tvg-logo=""group-title="India - Main",IN: Zee Zindagi
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60845
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60845
 #EXTINF:-1 tvg-name="IN: ZeeNews"tvg-logo=""group-title="India - Main",IN: ZeeNews
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60846
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60846
 #EXTINF:-1 tvg-name="IN: Zindagi"tvg-logo=""group-title="India - Main",IN: Zindagi
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60847
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60847
 #EXTINF:-1 tvg-name="IN: Zing TV"tvg-logo=""group-title="India - Main",IN: Zing TV
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60848
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60848
 #EXTINF:-1 tvg-name="IN: Zing TV UK"tvg-logo=""group-title="India - Main",IN: Zing TV UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60849
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60849
 #EXTINF:-1 tvg-name="IN: Zing TV US"tvg-logo=""group-title="India - Main",IN: Zing TV US
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60850
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60850
 #EXTINF:-1 tvg-name="IN: Zoom"tvg-logo=""group-title="India - Main",IN: Zoom
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60851
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60851
 #EXTINF:-1 tvg-name="IN: Zoom UK"tvg-logo=""group-title="India - Main",IN: Zoom UK
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/60852
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/60852
 #EXTINF:-1 tvg-name="Live Football 01 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 01 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53907
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53907
 #EXTINF:-1 tvg-name="Live Football 02 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 02 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53908
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53908
 #EXTINF:-1 tvg-name="Live Football 03 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 03 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53909
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53909
 #EXTINF:-1 tvg-name="Live Football 04 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 04 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53910
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53910
 #EXTINF:-1 tvg-name="Live Football 05 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 05 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53911
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53911
 #EXTINF:-1 tvg-name="Live Football 06 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 06 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53912
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53912
 #EXTINF:-1 tvg-name="Live Football 07 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 07 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53913
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53913
 #EXTINF:-1 tvg-name="Live Football 08 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 08 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53914
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53914
 #EXTINF:-1 tvg-name="Live Football 09 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 09 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53915
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53915
 #EXTINF:-1 tvg-name="Live Football 10 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 10 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53916
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53916
 #EXTINF:-1 tvg-name="Live Football 11 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 11 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53917
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53917
 #EXTINF:-1 tvg-name="Live Football 12 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 12 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53918
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53918
 #EXTINF:-1 tvg-name="Live Football 13 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 13 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53919
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53919
 #EXTINF:-1 tvg-name="Live Football 14 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 14 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53920
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53920
 #EXTINF:-1 tvg-name="Live Football 15 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 15 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53921
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53921
 #EXTINF:-1 tvg-name="Live Football 16 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 16 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53922
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53922
 #EXTINF:-1 tvg-name="Live Football 17 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 17 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53923
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53923
 #EXTINF:-1 tvg-name="Live Football 18 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 18 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53924
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53924
 #EXTINF:-1 tvg-name="Live Football 19 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 19 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53925
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53925
 #EXTINF:-1 tvg-name="Live Football 20 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 20 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53926
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53926
 #EXTINF:-1 tvg-name="Live Football 21 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 21 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53927
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53927
 #EXTINF:-1 tvg-name="Live Football 22 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 22 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53928
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53928
 #EXTINF:-1 tvg-name="Live Football 23 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 23 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53906
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53906
 #EXTINF:-1 tvg-name="Live Football 24 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 24 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53905
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53905
 #EXTINF:-1 tvg-name="Live Football 25 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 25 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53904
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53904
 #EXTINF:-1 tvg-name="Live Football 26 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 26 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53903
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53903
 #EXTINF:-1 tvg-name="Live Football 27 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 27 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53902
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53902
 #EXTINF:-1 tvg-name="Live Football 28 (Check announcement channel for coverage)"tvg-logo=""group-title="Misc. Sports: F1TV/MOLA/NowHK/RugbyLive/UFCPass and More",Live Football 28 (Check announcement channel for coverage)
-http://s1.shortdns.xyz:80/Y6JF5RV1U8/06g2mVFu6c/53901
+http://s1.shortdns.xyz:80/QBAX72G5SH/c2H0e5Tbr4/53901
